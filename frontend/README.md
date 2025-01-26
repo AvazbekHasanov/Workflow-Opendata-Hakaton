@@ -1,4 +1,4 @@
-# Project Name: Dashboard Vue App
+# Project Name: WorkflowUz
 
 This template helps you get started developing with Vue 3 in Vite.
 
