@@ -17,7 +17,7 @@ This project is a dashboard application built using Vue.js with the Composition 
 - **Chart.js**: For creating responsive and interactive charts.
 - **Element Plus**: Provides UI components for a modern look.
 - **Font Awesome**: Adds customizable icons.
-- **Axios**: For making HTTP requests.
+- **Fetch**: For making HTTP requests.
 - **Day.js**: Lightweight library for parsing and formatting dates.
 - **Lodash**: Utility library for simplifying JavaScript operations.
 - **Pinia**: State management for Vue applications.
@@ -33,7 +33,6 @@ This project is a dashboard application built using Vue.js with the Composition 
   "@fortawesome/fontawesome-svg-core": "^6.6.0",
   "@fortawesome/free-solid-svg-icons": "^6.6.0",
   "@fortawesome/vue-fontawesome": "^3.0.8",
-  "axios": "^1.7.7",
   "chart.js": "^4.4.7",
   "dayjs": "^1.11.13",
   "element-plus": "^2.8.7",
